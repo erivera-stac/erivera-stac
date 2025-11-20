@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Physicist and Computer Science Teacher
 --------------------------------------
 
-Specialist in Wave Propagation and Transport, now integrating Data Science principles into the high school curriculum. Over seven years of experience teaching the Fundamentals of Computer Science, fostering the next generation of problem-solvers.
-
-Proficient in computational and numerical analysis using Python, C, C++, Fortran, MATLAB, and Mathematica.
+Specialist in Wave Propagation and Transport, now integrating Data Science principles into the high school curriculum. Over seven years of experience teaching the Fundamentals of Computer Science, fostering the next generation of problem-solvers. Proficient in computational and numerical analysis using Python, C, C++, Fortran, symbolic Language as MATLAB, and Mathematica.
 
 * 🌍  I'm based in Puebla Mexico
 * ✉️  You can contact me at [rivera.maurice@gmail.com](mailto:rivera.maurice@gmail.com)
 * 🧠  I'm currently learning Data Science
 * 👥  I'm looking to collaborate on Interesting projects
 * 💬  Ask me about I like MTB,..., but don't tell anyone
+
+  
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/erivera-stac"><img src="https://github-readme-stats.vercel.app/api?username=erivera-stac&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erivera-stac's GitHub stats" /></a>
@@ -26,4 +26,3 @@ Proficient in computational and numerical analysis using Python, C, C++, Fortran
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/erivera-stac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/eladio-rivera" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
